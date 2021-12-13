@@ -1,0 +1,13 @@
+
+*.editorconfig
+Tetris/Tetris/obj/Tetris.csproj.nuget.g.targets
+Tetris/Tetris/obj/Tetris.csproj.nuget.g.props
+Tetris/Tetris/obj/Tetris.csproj.nuget.dgspec.json
+Tetris/Tetris/obj/project.nuget.cache
+Tetris/Tetris/obj/project.assets.json
+Tetris/Tetris/obj/Debug/net5.0/Tetris.csproj.AssemblyReference.cache
+Tetris/Tetris/obj/Debug/net5.0/Tetris.assets.cache
+Tetris/Tetris/obj/Debug/net5.0/Tetris.AssemblyInfoInputs.cache
+Tetris/Tetris/obj/Debug/net5.0/Tetris.AssemblyInfo.cs
+Tetris/Tetris/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+Tetris/.vs/Tetris/v17/.suo
